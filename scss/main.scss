@@ -10,7 +10,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #c1f7fd;
+    background-color: #6cd5ef;
     font-family: "M PLUS Rounded 1c", sans-serif;
 }
 
@@ -25,12 +25,8 @@ body {
         font-size: 28px;
         font-weight: 700;
         margin-bottom: 23px;
-        .color {
-            color: #c1f7fd;
-            transition: .35s all;
-            &:hover {
-                color: #6fa9af;
-            }
+        span {
+            color: #6cd5ef;
         }
     }
     .btn {
